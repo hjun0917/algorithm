@@ -1,6 +1,6 @@
-package hanghae99.w2;
+package algorithm.w2;
 
-public class algorithm4 {
+public class Algorithm4 {
     public static void main(String[] args) {
         Solution4 exam = new Solution4();
         System.out.println(exam.solution(1, 10));

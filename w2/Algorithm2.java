@@ -1,6 +1,6 @@
-package hanghae99.w2;
+package algorithm.w2;
 
-public class algorithm2 {
+public class Algorithm2 {
     public static void main(String[] args) {
         Solution2 exam = new Solution2();
 

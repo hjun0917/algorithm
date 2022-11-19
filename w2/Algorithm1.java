@@ -1,8 +1,8 @@
-package hanghae99.w2;
+package algorithm.w2;
 
 import java.util.Scanner;
 
-public class algorithm1 {
+public class Algorithm1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
