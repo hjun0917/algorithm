@@ -1,4 +1,4 @@
-package algorithm.w2;
+package algorithm.marathon;
 
 import java.util.Scanner;
 

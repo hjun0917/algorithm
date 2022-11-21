@@ -1,6 +1,6 @@
 // https://school.programmers.co.kr/learn/courses/30/lessons/82612
 
-package algorithm.w2;
+package algorithm.marathon;
 
 public class Algorithm12 {
     public static void main(String[] args) {
@@ -22,7 +22,7 @@ class Solution12 {
         long allPrice = 0;
 
         for (int i = 0; i < count; i++) {
-            allPrice += price * (i + 1);
+            allPrice += (long) price * (i + 1);
             System.out.println(allPrice);
         }
 

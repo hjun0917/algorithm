@@ -1,6 +1,4 @@
-package algorithm.w2;
-
-import javax.lang.model.util.SimpleElementVisitor9;
+package algorithm.marathon;
 
 public class Algorithm9 {
     public static void main(String[] args) {

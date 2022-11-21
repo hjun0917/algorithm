@@ -1,5 +1,5 @@
 // https://school.programmers.co.kr/learn/courses/30/lessons/12943
-package algorithm.w2;
+package algorithm.marathon;
 
 public class Algorithm27 {
     public static void main(String[] args) {
@@ -12,6 +12,7 @@ public class Algorithm27 {
 class Solution27 {
     public int solution(int num) {
         // int 타입의 범위를 넘어 설 경우를 대비해 long 타입 변수에 num 을 저장.
+
         long answer = num;
         int count = 0;
 

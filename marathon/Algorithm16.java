@@ -1,5 +1,5 @@
 // https://school.programmers.co.kr/learn/courses/30/lessons/12916
-package algorithm.w2;
+package algorithm.marathon;
 
 import java.util.Scanner;
 
@@ -23,7 +23,6 @@ class Solution16_1 {
 
         if (count_p != count_y) {
             answer = false;
-            return answer;
         }
 
         return answer;

@@ -1,5 +1,5 @@
 // https://school.programmers.co.kr/learn/courses/30/lessons/12918
-package algorithm.w2;
+package algorithm.marathon;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

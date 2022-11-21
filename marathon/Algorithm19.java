@@ -1,9 +1,9 @@
 // https://school.programmers.co.kr/learn/courses/30/lessons/12922
-package algorithm.w2;
+package algorithm.marathon;
 
 public class Algorithm19 {
     public static void main(String[] args) {
-        Solution19_1 exam = new Solution19_1();
+        Solution19 exam = new Solution19();
         System.out.println(exam.solution(5));
     }
 }

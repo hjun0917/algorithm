@@ -1,5 +1,5 @@
 // https://school.programmers.co.kr/learn/courses/30/lessons/12930
-package algorithm.w2;
+package algorithm.marathon;
 
 public class Algorithm21 {
     public static void main(String[] args) {

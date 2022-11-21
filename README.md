@@ -1,6 +1,8 @@
 # [2주차]걷기반 4조 알고리즘 스터디
 
-10번, 13번, 20번, 23번 풀기.
+11/21 - 10번, 13번 풀기 완료.
+
+14번, 20번(⭐), 23번 풀기.
 
 1. [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)&nbsp;&nbsp;&nbsp;&nbsp;[🔑](/w2/Algorithm1.java)<br>
 2. [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) &nbsp;&nbsp;&nbsp;&nbsp;[🔑](/w2/Algorithm2.java)<br>

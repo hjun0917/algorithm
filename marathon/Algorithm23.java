@@ -1,5 +1,5 @@
 // https://school.programmers.co.kr/learn/courses/30/lessons/12932
-package algorithm.w2;
+package algorithm.marathon;
 
 import java.util.Arrays;
 import java.util.stream.Stream;

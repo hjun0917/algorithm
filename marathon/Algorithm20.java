@@ -1,5 +1,5 @@
 // https://school.programmers.co.kr/learn/courses/30/lessons/42576
-package algorithm.w2;
+package algorithm.marathon;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -27,6 +27,7 @@ class Solution20_1 {
         for (String s : completion) {
             list.remove(s);
         }
+
 
         answer = list.toString();
         // .replaceAll("[^a-zA-z]", " ") -> [ ] 가 왜 안ㅇ빠져 나갈까...?

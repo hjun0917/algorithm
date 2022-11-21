@@ -1,6 +1,4 @@
-package algorithm.w2;
-
-import java.util.Arrays;
+package algorithm.marathon;
 
 public class Algorithm6 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package algorithm.w2;
+package algorithm.marathon;
 
 public class Algorithm3 {
     public static void main(String[] args) {

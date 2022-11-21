@@ -1,5 +1,5 @@
 // https://wakestand.tistory.com/423
-package algorithm.w2;
+package algorithm.marathon;
 
 import java.util.stream.Stream;
 
