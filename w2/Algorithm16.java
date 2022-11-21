@@ -5,10 +5,28 @@ import java.util.Scanner;
 
 public class Algorithm16 {
     public static void main(String[] args) {
-        Solution16 exam = new Solution16();
+        Solution16_1 exam = new Solution16_1();
+
         Scanner sc = new Scanner(System.in);
         String s = sc.next();
         System.out.println(exam.solution(s));
+    }
+}
+
+class Solution16_1 {
+    boolean solution(String s) {
+        boolean answer = true;
+        s = s.toLowerCase();
+
+        long count_p = s.chars().filter(ch -> ch == 'p').count();
+        long count_y = s.chars().filter(ch -> ch == 'y').count();
+
+        if (count_p != count_y) {
+            answer = false;
+            return answer;
+        }
+
+        return answer;
     }
 }
 
@@ -21,7 +39,7 @@ class Solution16 {
         int p = countChar(word, 'p');
         int y = countChar(word, 'y');
         // 반복문을 이용해서 알파벳의 개수를 샘.
-        if(p!=y) {
+        if (p != y) {
             return false;
         }
 
@@ -32,7 +50,7 @@ class Solution16 {
     private int countChar(String word, char alphabet) {
         int count = 0;
         for (int i = 0; i < word.length(); i++) {
-            if(word.charAt(i) == alphabet) {
+            if (word.charAt(i) == alphabet) {
                 count++;
             }
         }
